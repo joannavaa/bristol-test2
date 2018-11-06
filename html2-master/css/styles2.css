@@ -1,0 +1,19 @@
+ul.nav li{
+        display: inline-block;
+        padding-right: 10px;
+    }
+    a {
+      color: white;
+      background-color: red;
+    }
+#about_blue{
+  background-color: #6495ED;
+}
+#blue{
+  color: blue;
+}
+#about_yellow{
+  background-color: #FFEBCD;
+}
+#orange{
+  color: orange;

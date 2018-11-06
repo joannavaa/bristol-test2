@@ -1,0 +1,21 @@
+h1 {
+  text-align: center;
+  color: indianred;
+  font-size: 28px;
+  font-family: helvetica;
+}
+p {
+  text-align: center;
+  color: indianred;
+  font-size: 18px;
+  font-family: helvetica;
+}
+body {
+  background-color: lightsalmon;
+}
+h2 {
+  text-align: center;
+  color: white;
+  font-size: 18px;
+  font-family: helvetica;
+}
